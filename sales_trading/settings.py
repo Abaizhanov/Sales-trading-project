@@ -47,6 +47,7 @@ INSTALLED_APPS = [
     'sales',
     'analytics',
     'notifications',
+    'drf_yasg'
 ]
 
 AUTH_USER_MODEL = 'users.User'
